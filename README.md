@@ -1,4 +1,6 @@
-# 02BasesAngular
+# Bases de Angular - Curso de Fernando Herrera
+
+Aquí se encontrarán los conceptos básicos aprendidos en `Angular`: Estructura, Componentes, Directivas, Interpolación, Bindings, Módulos y pequeños ejercicios de práctica.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
