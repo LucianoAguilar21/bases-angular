@@ -6,5 +6,17 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '02-basesAngular';
+
+  public title: string = 'Curso - App Angular';
+
+  // public counter: number = 10;
+
+  // increaseOne(value :number):void{
+  //   this.counter+=value;
+  // }
+
+  // reset():void{
+  //   this.counter=10;
+  // }
+
 }
